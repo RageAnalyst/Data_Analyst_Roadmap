@@ -21,4 +21,4 @@ A word of introduction, the Data Analytics is the collection, transformation, an
 
 |🗓️ Span|⚙️ Skills|🔗 Sources|
 |--------|----------------|--------------------------|
-|September 2023|Supermarket Sales Analysis • effective use of data edit tools (Excel shortcut CTRL+H in case of characters changing) • designing dashboard •adding slicers to data filtering in dashboard|[Full Project in Excel | Excel Tutorials for Beginners](https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLKH6m-Lsb9RqLCiUHvud2qcNJEpISgcUO&index=3&t=1772s)|
+|September 2023|Supermarket Sales Analysis|[Full Project in Excel | Excel Tutorials for Beginners](https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLKH6m-Lsb9RqLCiUHvud2qcNJEpISgcUO&index=3&t=1772s)|
