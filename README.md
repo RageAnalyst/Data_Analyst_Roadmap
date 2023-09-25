@@ -20,4 +20,5 @@ A word of introduction, the Data Analytics is the collection, transformation, an
 # Timeline
 
 |🗓️ Span|⚙️ Skills|🔗 Sources|
+|------|--------------------|---------------------|
 |September 2023|Supermarket Sales Analysis <br> • effective use of data edit tools (Excel shortcut CTRL+H in case of characters changing) <br> • designing dashboard <br> •adding slicers to data filtering in dashboard|[Full Project in Excel | Excel Tutorials for Beginners](https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLKH6m-Lsb9RqLCiUHvud2qcNJEpISgcUO&index=3&t=1772s)|
